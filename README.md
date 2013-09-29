@@ -1,5 +1,11 @@
 psycopg2 - Python-PostgreSQL Database Adapter
-********************************************
+=============================================
+
+[![xrefs](https://sourcegraph.com/api/repos/github.com/beyang/psycopg2/badges/xrefs.png)](https://sourcegraph.com/github.com/beyang/psycopg2)
+[![funcs](https://sourcegraph.com/api/repos/github.com/beyang/psycopg2/badges/funcs.png)](https://sourcegraph.com/github.com/beyang/psycopg2)
+[![top func](https://sourcegraph.com/api/repos/github.com/beyang/psycopg2/badges/top-func.png)](https://sourcegraph.com/github.com/beyang/psycopg2)
+[![library users](https://sourcegraph.com/api/repos/github.com/beyang/psycopg2/badges/library-users.png)](https://sourcegraph.com/github.com/beyang/psycopg2)
+[![status](https://sourcegraph.com/api/repos/github.com/beyang/psycopg2/badges/status.png)](https://sourcegraph.com/github.com/beyang/psycopg2)
 
 psycopg2 is a PostgreSQL database adapter for the Python programming
 language.  psycopg2 was written with the aim of being very small and fast,
