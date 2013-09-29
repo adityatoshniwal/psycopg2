@@ -561,7 +561,6 @@ setup(name="psycopg2",
       long_description="\n".join(__doc__.split("\n")[2:]),
       classifiers=[x for x in classifiers.split("\n") if x],
       data_files=data_files,
-      package_dir={'psycopg2': 'lib', 'psycopg2.tests': 'tests'},
       packages=['psycopg2', 'psycopg2.tests'],
       cmdclass={
           'build_ext': psycopg_build_ext,
